@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Block2</string>
+    <string name="pick_an_animal">Wählen Sie ein Tier:</string>
+    <string name="dog">Hund</string>
+    <string name="cat">Katze</string>
+    <string name="pig">Schwein</string>
+    <string name="horse">Pferd</string>
+    <string name="selected">"Du hast ausgewählt: "</string>
+</resources>

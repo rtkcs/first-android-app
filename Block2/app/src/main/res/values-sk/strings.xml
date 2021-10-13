@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Block2</string>
+    <string name="pick_an_animal">Vyberte zviera:</string>
+    <string name="dog">Pes</string>
+    <string name="cat">Mačka</string>
+    <string name="pig">Prasa</string>
+    <string name="horse">Kôň</string>
+    <string name="selected">"Vybral si: "</string>
+</resources>
